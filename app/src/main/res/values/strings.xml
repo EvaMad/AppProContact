@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">AppProcContact</string>
+
+    <!-- Home Page -->
+    <string name="app_title">Pages Jaunes</string>
+    <string name="app_slogan"> Des contacts professionels en 1 clic </string>
+    <string name="app_description"> Bienvenue dans l\'application qui va révolutionner votre avenir ! \n
+        Grâce à elle, vous pouvez trouver des professionels en 1 clic. \n
+        Il suffit de renseigner le métier, ou le nom d\'une personne pour avoir toutes les informations nécessaires. \n
+        Ne perdez plus votre temps sur internet ou dans les annuaires papiers; venez directement rechercher ce qui vous interesse dans notre application. \n\n
+    Essayez par vous même !!! </string>
+    <string name="textButton">C\'est parti !</string>
+
+
+    <!-- Login end Register Pages -->
+    <string name="text_log">S\'identifier</string>
+    <string name="text_not_reg">Pas encore inscrit ?</string>
+    <string name="button_co">Connexion</string>
+    <string name="text_in"> Inscrivez-vous</string>
+
+    <string name="text_reg">Inscription</string>
+    <string name="text_log2">Déjà membre ?</string>
+    <string name="button_reg">S\'inscrire</string>
+    <string name="text_co"> Connectez-vous</string>
+
+    <string name="text_email">Email</string>
+    <string name="text_name">Nom</string>
+    <string name="text_surname">Prénom</string>
+    <string name="text_password">Mot de passe</string>
+    <string name="text_password2">Confirmez votre mot de passe</string>
+
+    <!-- Jardinier Details View -->
+    <string name="titleJar">Jardinier du 06</string>
+    <string name="emailJar">Jardinierdu06@hotmail.fr</string>
+    <string name="telJar">04.93.94.27.01</string>
+    <string name="adressJar">831 route de l\'aire Saint Michel — Nice</string>
+    <string name="descriptionJar"> Notre entreprise met à disposition un de nos jardiniers paysagistes.
+    Ils sont spécialisés dans tous les petits travaux de jardinage :\n\n
+
+ - Tonte de la pelouse,\n
+ - Débroussaillage,\n
+ - Taille des haies, arbustes et buissons,\n
+ - Désherbage,\n
+ - Ramassage des feuilles,\n
+ - Traitement des maladies des végétaux,\n
+ - Démoussage,\n
+ - Enlèvement des déchets…\n\n
+        
+Votre jardinier à domicile :\n\n
+
+ - Prend le temps d’écouter vos souhaits quant à l’esthétique de votre jardin,\n
+ - Utilise un matériel adapté à chaque opération,\n
+ - Vous fait bénéficier de ses connaissances sur les végétaux.\n</string>
+
+    <string name="btnBack">Retour</string>
+
+    <!-- Boulanger Details View -->
+    <string name="titleBou">Boulangerie Jean Marc</string>
+    <string name="emailBou">BoulangerieJM@gmail.fr</string>
+    <string name="telBou">04.93.19.87.20</string>
+    <string name="adressBou">14 avenue des roses — Nice</string>
+    <string name="descriptionBou"> Notre boulangerie propose des produits biologiques de fabrication artisanale : Une assez large variété de pains, et des viennoiseries, patisseries et biscuits.\n\n
+        Nos matières premières sont toutes issues de l’agriculture biologique. \n\n Nous favorisons toujours les producteurs les plus proches,
+        pour minimiser le transport, garantir la traçabilité, une plus grande fraîcheur, participer à l’économie locale… </string>
+
+    <!-- Medecin Details View -->
+    <string name="titleMed">Georges Méthot</string>
+    <string name="emailMed">MethotGeorgespro@hotmail.fr</string>
+    <string name="telMed">04.93.30.19.71</string>
+    <string name="adressMed">40 avenue cap de croix — Nice</string>
+    <string name="descriptionMed">En tant que médecin généraliste, je reçois des patients malades dans mon cabinet ou je vais les voir à leur domicile.\n
+        J\'ausculte pour définir un diagnostic./n
+        En fonction du problème, je prodigue les soins ou je prescris un traitement pharmaceutique. \n\n
+        Si besoin, je peux vous diriger vers un spécialiste ou un hôpital afin de procéder à des examens complémentaires. </string>
+
+</resources>
